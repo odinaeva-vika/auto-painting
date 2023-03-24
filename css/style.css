@@ -750,6 +750,10 @@ body {
   color: #FFFFFF;
 }
 
+.call--main {
+  height: 80vh;
+}
+
 .form {
   padding-top: 62px;
   display: -webkit-box;
